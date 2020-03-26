@@ -9,7 +9,7 @@ import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 /**
- * Representa una pantalla de la aplicación.
+ * Representa una pantalla de la aplicación. **********************
  */
 public abstract class Pantalla implements Screen
 {
